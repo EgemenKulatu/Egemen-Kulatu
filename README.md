@@ -2,13 +2,15 @@
 
 I'm a passionate software engineer focused on mobile app development with **React Native** and **AI integration**.
 
+### 🛠️ Tech Stack
+`React Native` · `TypeScript` · `JavaScript` · `Flutter` · `Node.js` · `Three.js` · `Unity` · `WordPress`
+
+
 ### 🚀 What I’m Working On
 - 📱 A fitness app using **React Native + AI**
 - 🔌 API integrations for real-time interactivity (TikTok, Twitch)
 - 🎮 Game development with Unity & Flutter
 
-### 🛠️ Tech Stack
-`React Native` · `TypeScript` · `JavaScript` · `Flutter` · `Node.js` · `Three.js` · `Unity` · `WordPress`
 
 ### 🎓 Education & Certificates
 - 🎓 Computer Engineering (Zonguldak Bülent Ecevit University)
